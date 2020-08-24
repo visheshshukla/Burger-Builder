@@ -10,8 +10,11 @@
 
 **Check It Out At-**  https://burger-builder-56fa5.web.app/   **(live production build)**
 
+**Mobiles View-**
 
 <img src="Screenshots/Screenshot_8.png" width="275"> <img src="Screenshots/Screenshot_7.png" width="275"> <img src="Screenshots/Screenshot_10.png" width="275">
+
+**Desktop View*-*
 
 <img src="Screenshots/Screenshot_1.png" width="825"> 
 
