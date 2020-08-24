@@ -1,4 +1,4 @@
-**The Burger Builder**
+**The Burger Builder Website**
 
 **React Based Project where Users can order Burgers with by selecting ingredients.**
 
@@ -14,7 +14,7 @@
 
 <img src="Screenshots/Screenshot_8.png" width="275"> <img src="Screenshots/Screenshot_7.png" width="275"> <img src="Screenshots/Screenshot_10.png" width="275">
 
-**Desktop View*-*
+**Desktop View-**
 
 <img src="Screenshots/Screenshot_1.png" width="825"> 
 
