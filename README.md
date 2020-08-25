@@ -8,7 +8,7 @@
 
 **Packages Used - Redux, Redux-Thunk, React-Router, Axios. Firebase for Database and Authentication.**
 
-**Check It Out At-**  https://burger-builder-56fa5.web.app/   **(live production build @Firebase Static Hosting)**
+**Check It Out At-**  https://burger-builder-56fa5.web.app/   **(live production build @Firebase Static Hosting.)**
 
 **Mobiles View-**
 
