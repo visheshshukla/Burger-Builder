@@ -1,6 +1,6 @@
-**The Burger Builder Website**
+# The Burger Builder Website
 
-**React Based Project where Users can order Burgers with by selecting ingredients.**
+**React Based Website where Users can order Burgers with by selecting ingredients.**
 
 **Users can also SignUp and Login to Make New Orders and View thier Previous Orders.**
 
