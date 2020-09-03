@@ -6,15 +6,15 @@
 
 **Website Automatically Switches to Mobile View when Viewed On Mobile Devices.**
 
-**Packages Used - Redux, Redux-Thunk, React-Router, Axios. Firebase for Database and Authentication.**
+**<ins>Packages Used</ins> - Redux, Redux-Thunk, React-Router, Axios. Firebase for Database and Authentication.**
 
-**Check It Out At-**  https://burger-builder-56fa5.web.app/   **(live production build @Firebase Static Hosting.)**
+**<ins>Check It Out At</ins> -**  https://burger-builder-56fa5.web.app/   **(live production build @Firebase Static Hosting.)**
 
-**Mobiles View-**
+**<ins>Mobile View</ins> -**
 
 <img src="Screenshots/Screenshot_8.png" width="275"> <img src="Screenshots/Screenshot_7.png" width="275"> <img src="Screenshots/Screenshot_10.png" width="275">
 
-**Desktop View-**
+**<ins>Desktop View</ins> -**
 
 <img src="Screenshots/Screenshot_1.png" width="825"> 
 
