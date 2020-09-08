@@ -1,6 +1,6 @@
 {
-  "name": "pro",
-  "version": "0.1.0",
+  "name": "Burger_Builder",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
