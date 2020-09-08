@@ -2,7 +2,7 @@
 
 **React Based Website where Users can order Burgers with by selecting ingredients.**
 
-**Users can also SignUp and Login to Make New Orders and View thier Previous Orders.**
+**Users can SignUp and Login to Make New Orders and View thier Previous Orders.**
 
 **Website Automatically Switches to Mobile View when Viewed On Mobile Devices.**
 
